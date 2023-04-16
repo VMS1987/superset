@@ -1,0 +1,15 @@
+var stylesArray = [
+  {
+    featureType: '',
+    elementType: '',
+    stylers: [
+      {color: ''},
+      {visibility: ''},
+      // Add any stylers you need.
+    ]
+  },
+  {
+    featureType: '',
+    // Add the stylers you need.
+  }
+]
